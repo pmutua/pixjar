@@ -37,6 +37,8 @@ gem 'jquery-rails'
 # Use simple form to create form templates
 gem 'simple_form', '~> 3.5'
 
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

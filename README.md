@@ -36,10 +36,11 @@ _Install system dependencies using bundler:_
 * Haml
 * Bootstrap
 * Devise 
+* PaperClip
 * Simple_form
 * Sass
 * CSS
-* Heroku - _deployment_
+* Heroku - _deployment_ 
 
 # Licence
 [MIT](./LICENCE)
