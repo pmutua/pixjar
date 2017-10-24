@@ -36,10 +36,9 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'jquery-rails'
 # Use simple form to create form templates
 gem 'simple_form', '~> 3.5'
-
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
-
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
