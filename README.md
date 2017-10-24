@@ -1,24 +1,49 @@
-# README
+# PixJar
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Author
+[Philip Mutua](philipmutua.netlify.com)
 
-Things you may want to cover:
+# Description 
+An application that enables users to post their pictures and other users can comment and like.
+[Deployment in Progress ](philipmutua.netlify.com)
 
-* Ruby version
+# Ruby Version
 
-* System dependencies
+* Ruby v2.3.1
+* Rails 5.1.4
 
-* Configuration
+# Installation
 
-* Database creation
+`git clone https://github.com/pmutua/pixjar.git`
 
-* Database initialization
+`cd ~/pixjar`
 
-* How to run the test suite
+###### Database Creation 
+* In the terminal Run 
+	+ `rake db:create`
+    + `rake db:migrate`
 
-* Services (job queues, cache servers, search engines, etc.)
+###### Install System Dependencies 
+_Install system dependencies using bundler:_
 
-* Deployment instructions
+* Run `bundle install`
+* To run the application Run `rails server` or `rails s`
+* Open browser and type `localhost:3000` 
 
-* ...
+# Technologies Used
+* Ruby 
+* Rails 
+* Haml
+* Bootstrap
+* Devise 
+* Simple_form
+* Sass
+* CSS
+* Heroku - _deployment_
+
+# Licence
+[MIT](./LICENCE)
+
+# Contribution
+If you see something you could add to the application pull Requests are allowed and also don't forget to _follow me_
+[@iamPhilipMutua](https:twitter.com/iamPhilipMutua)on twitter.
