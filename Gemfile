@@ -6,12 +6,6 @@ git_source(:github) do |repo_name|
 end
 
 
-gem 'devise'
-gem 'bootstrap-sass', '~> 3.3.6'
-gem 'haml', '~> 5.0', '>= 5.0.4'
-gem 'jquery-rails'
-# Use simple form to create form templates
-gem 'simple_form', '~> 3.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 # Use postgresql as the database for Active Record
@@ -35,6 +29,13 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# 
+gem 'devise'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'haml', '~> 5.0', '>= 5.0.4'
+gem 'jquery-rails'
+# Use simple form to create form templates
+gem 'simple_form', '~> 3.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
