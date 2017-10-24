@@ -36,6 +36,7 @@ _Install system dependencies using bundler:_
 * Haml
 * Bootstrap
 * Devise 
+* Masonry-rails
 * PaperClip
 * Simple_form
 * Sass
