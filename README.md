@@ -5,7 +5,7 @@
 
 # Description 
 An application that enables users to post their pictures and other users can comment and like.
-[Deployment in Progress ](philipmutua.netlify.com)
+[View Demo](https://pixjar.herokuapp.com/)
 
 # Ruby Version
 
